@@ -1,7 +1,3 @@
-Aquí tienes el texto **sin emojis**, dejando **todo lo demás exactamente igual**:
-
----
-
 # SinceDB - Cuándo hablé por última vez
 
 Una aplicación web minimalista y elegante para hacer seguimiento de cuánto tiempo ha pasado desde la última vez que hablaste con las personas importantes en tu vida.
