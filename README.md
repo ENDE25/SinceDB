@@ -1,33 +1,33 @@
-# 📱 SinceDB - Cuándo hablé por última vez
+# SinceDB - Cuándo hablé por última vez
 
 Una aplicación web minimalista y elegante para hacer seguimiento de cuánto tiempo ha pasado desde la última vez que hablaste con las personas importantes en tu vida.
 
 ---
 
-## 📖 **GUÍA DE USUARIO**
+## **GUÍA DE USUARIO**
 
 ### ¿Para qué sirve?
 
 **SinceDB** te ayuda a mantener contacto regular con las personas que te importan. La aplicación visualiza de manera intuitiva cuánto tiempo ha pasado desde tu última conversación con cada persona, usando barras de colores que crecen conforme pasa más tiempo.
 
-### 🎯 **Funcionalidades Principales**
+### **Funcionalidades Principales**
 
-#### 📊 **Visualización Intuitiva**
+#### **Visualización Intuitiva**
 - **Barras horizontales** que representan el tiempo transcurrido
 - **Colores graduales**: Verde (reciente) → Amarillo (moderado) → Rojo (mucho tiempo)
 - **Contador de días** preciso a la derecha de cada barra
 - **Ordenamiento automático**: Las personas con más tiempo sin contacto aparecen arriba
 
-#### 👥 **Gestión de Contactos**
-- ➕ **Añadir personas** con la fecha del último contacto
-- ✏️ **Editar información** de personas existentes
-- 🗑️ **Eliminar personas** individualmente
-- ✅ **Marcar "acabo de hablar"** para actualizar a la fecha actual
+#### **Gestión de Contactos**
+- **Añadir personas** con la fecha del último contacto
+- **Editar información** de personas existentes
+- **Eliminar personas** individualmente
+- **Marcar "acabo de hablar"** para actualizar a la fecha actual
 
-#### 🔧 **Herramientas Adicionales**
-- 🗑️ **Borrar todos los datos** con confirmación de seguridad
-- ℹ️ **Información de almacenamiento** con estadísticas detalladas
-- 📱 **Diseño responsive** para móviles y escritorio
+#### **Herramientas Adicionales**
+- **Borrar todos los datos** con confirmación de seguridad
+- **Información de almacenamiento** con estadísticas detalladas
+- **Diseño responsive** para móviles y escritorio
 
 ### 🚀 **Cómo usar la aplicación**
 
@@ -39,7 +39,7 @@ Una aplicación web minimalista y elegante para hacer seguimiento de cuánto tie
 
 #### **Uso diario:**
 - **Revisa** regularmente la lista para ver con quién llevas más tiempo sin hablar
-- **Usa el botón ✅** cuando hables con alguien para actualizar la fecha automáticamente
+- **Usa el botón** cuando hables con alguien para actualizar la fecha automáticamente
 - **Edita fechas** si recuerdas conversaciones anteriores
 - **Añade nuevas personas** conforme expandes tu círculo social
 
@@ -51,10 +51,10 @@ Una aplicación web minimalista y elegante para hacer seguimiento de cuánto tie
 ### 💾 **Almacenamiento de Datos**
 
 Tus datos se guardan **localmente** en tu navegador y **NO se envían** a ningún servidor externo:
-- ✅ **Privacidad total**: Solo tú tienes acceso a la información
-- ✅ **Persistencia**: Los datos se mantienen al cerrar y abrir el navegador
-- ✅ **Sin internet**: Funciona completamente offline
-- ⚠️ **Backup recomendado**: Los datos se pierden si borras los datos del navegador
+- **Privacidad total**: Solo tú tienes acceso a la información
+- **Persistencia**: Los datos se mantienen al cerrar y abrir el navegador
+- **Sin internet**: Funciona completamente offline
+- **Backup recomendado**: Los datos se pierden si borras los datos del navegador
 
 ---
 
